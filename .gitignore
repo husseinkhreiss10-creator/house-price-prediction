@@ -1,0 +1,11 @@
+# Kaggle data files (large, and Kaggle's terms discourage redistribution —
+# each user should download their own copy from the competition page)
+data/train.csv
+data/test.csv
+data/sample_submission.csv
+submission.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
